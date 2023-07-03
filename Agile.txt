@@ -1,0 +1,174 @@
+Joining--- cognizant
+*****************
+1 Jan 2023
+Resource pool------100
+MNCs work culture----
+Laptop---10-12 days
+Timesheets ----- per day 9 hr* 5 days = 45 hrs ----- approval- Resource pool ----abc
+-------------------
+udemy----1----self study
+-------------------
+-------------
+15 Jan 2023--------laptop recieved
+-------------
+Details + updated resume 
+-----recruitment ------
+internal portal-------resume
+--------------------------------------------------
+*1200 projects
+--------------------------------------------------
+Tejas --- 3,4 ------retail--- aws------ pass--
+
+timesheet---- 
+--------------------------------------------------
+1 buddy--- 
+--------------------------------------------------
+access request ---- pycharm , jira, vpn, vmware, citrix gateway, ML, tableau
+--------------------------------------------------
+2 days
+-------------
+
+23-jan-2023
+------------
+lunch date-- 
+----------------
+24-jan 2023
+-----------------  KT sessions, udemy, recorded sessions
+31-jan 2023
+------------------------------
+wallmart---
+12--- 70%
+------------------------------
+chinmay.shingare@cognizant.com-------contractor ------service based company
+chinmay.shingare@wallmart.com-------client---------product based company
+------------------------------
+1 feb 2023---
+
+---------------------------------
+9.30 - login
+
+11 am- call ----with all team(10)-----stand up call-----15-20 min
+
+1 pm----lunch---2 pm
+
+connect--2 pm----jira board---
+
+
+5:00 am -----
+microsoft teams---- team group
+
+5.30 -------status call/ scrum call------scrum master-----20 
+
+jhon----20
+jessica----30
+---------------------------------
+agile and jira 
+
+agile- Project management methodology / Approach
+jira - Project management tool
+
+****************************************
+MD/ CEO
+|
+VP
+|
+Director
+|
+Associate Director
+|
+Sr. technical lead/ technical specialist
+|
+technical managers
+|
+architects-----(architect, architect-1, architect- 2, Principle architect)
+|
+module lead
+|
+team lead( devlopers)  (20-25 LPA)
+|
+Sr.devlopers / team members  (10-15 LPA)
+|
+Jr.devlopers / team members  (5-6 LPA)
+|
+interns-----stipend(2.4 LPA)
+****************************************
+------------
+waterfall ------V model
+
+------------
+Agile  ---dev + test
+------------
+Conceptual model
+|
+Logical model
+|
+Physical model
+|
+HLD
+|
+LLD
+|
+BRS
+|
+SRS
+|
+developers/ testers / Analysts
+|
+JIRA sprint plannings---6 months--- 12 sprints
+sprint---14 days -----
+----sprint kickoff meeting----
+sprint wallmart_1.0---1 jan-----14 jan
+sprint wallmart_1.1----15 jan
+sprint wallmart_1.2
+sprint wallmart_1.3
+---------------
+sprint wallmart_1.0
+-Sprint grooming meeting -----1jan
+--------
+- mid sprint review meeting ----7/8 jan
+--------
+-Sprint closure meeting -----14 jan
+---------------
+Agile
+hybrid agile
+Kaizen 
+Kanban
+agile + Kaizen
+agile + Kanban
+lean 
+TPS
+---------------
+agile--
+documentation--- less
+customer satisfaction --- more
+timely delivery ---- more
+---------------
+
+product owner---   15 lpa
+business analyst-- 
+jashdkjsdbcjhdsbvjhdsbvjhdsbvjhdsbv
+jashdkjsdbcjhdsbvjhdsbvjhdsbvjhdsbv
+jashdkjsdbcjhdsbvjhdsbvjhdsbvjhdsbv
+jashdkjsdbcjhdsbvjhdsbvjhdsbvjhdsbv
+jashdkjsdbcjhdsbvjhdsbvjhdsbvjhdsbv
+jashdkjsdbcjhdsbvjhdsbvjhdsbvjhdsbv
+---------------
+jash----4 ------HP----HS-------
+db  ----2 
+vj   ---1 ------LP----LS-------
+v ------7-------story point estimation
+---------------
+priority severity
+
+HP   HS---first
+LP   HS---mid
+HP   LS---mid
+LP   LS---last
+---------------
+sprint
+issue
+story
+story point
+assigning 
+sprint life cycle
+---------------
