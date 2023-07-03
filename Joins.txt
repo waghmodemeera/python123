@@ -1,0 +1,102 @@
+*************************************************************
+create table DEMO1
+(
+Emp_id int,
+Emp_name varchar(50),
+Emp_city varchar(50),
+Dept_id  int,
+Phone_no int,
+Salary_id int
+)
+-----------------------------
+select * from Demo1------------------Emp info
+-----------------------------
+insert into Demo1 Values(001, 'Akash', 'Pune', 18, 9892868586, 12);
+insert into Demo1 Values(002, 'Anil', 'Pune', 19, 8956789654, 13);
+insert into Demo1 Values(003, 'Shyam', 'Mumbai', 19, 7896541236, 14);
+insert into Demo1 Values(004, 'Mohan', 'Goa', 18, 7896325876, 15);
+insert into Demo1 Values(005, 'Ramesh', 'Satara', 20, 7851256984, 16);
+
+*************************************************************
+
+create table DEMO2
+(
+salary_id int,
+salary int,
+salary_account_no int,
+salary_bank_name  varchar(50)
+)
+-----------------------------
+select * from Demo2-----------salary details
+-----------------------------
+insert into Demo2 values(12,50000,12365879632145,'HDFC');
+insert into Demo2 values(13,53600,12365886932145,'SBI');
+insert into Demo2 values(14,85200,12365879562145,'BOI');
+insert into Demo2 values(15,69500,12365879999145,'KOTAK');
+*************************************************************
+create table DEMO3
+(
+Dept_id int,
+Dept_name varchar(50),
+Manager_name varchar(50),
+Location_id int
+)
+-----------------------------
+select * from Demo3-----------Dept details
+-----------------------------
+insert into Demo3 values(18,'Accounting','Rishabh Sharma',2);
+insert into Demo3 values(19,'HR','Sushmita Roy',6);
+insert into Demo3 values(20,'Operations','Sujoy Ghosh',5);
+-----------------------------
+******************************INNER JOIN*******************************
+
+select * 
+from 
+demo1 D1 inner join demo2 D2
+on 
+D1.salary_id = D2.salary_id
+order by d1.salary_id--------------------4 records
+-----------------------------------------------------------------------
+select * 
+from 
+demo1 D1  join demo2 D2
+on 
+D1.salary_id <> D2.salary_id
+order by d1.salary_id---------------------16 records
+-----------------------------------------------------------------------
+select * 
+from 
+demo1 D1  join demo2 D2
+on 
+D1.salary_id > D2.salary_id
+order by d1.salary_id---------------------10 records
+-----------------------------------------------------------------------
+select * 
+from 
+demo1 D1  join demo2 D2
+on 
+D1.salary_id < D2.salary_id
+order by d1.salary_id---------------------6 records
+----------------------------------------------------------------------
+******************************RIGHT JOIN******************************
+select * 
+from 
+demo1 D1 RIGHT join demo2 D2
+on 
+D1.salary_id = D2.salary_id
+order by d1.salary_id      --------------------4 records
+******************************LEFT JOIN*******************************
+select * 
+from 
+demo1 D1 LEFT join demo2 D2
+on 
+D1.salary_id = D2.salary_id
+order by d1.salary_id      --------------------5 records
+******************************FULL JOIN*******************************
+select * 
+from 
+demo1 D1 FULL JOIN demo2 D2
+on 
+D1.salary_id = D2.salary_id
+order by d1.salary_id  --------------------5 records
+**********************************************************************
